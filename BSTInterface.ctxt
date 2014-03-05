@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ toString()
+comment0.text=\n\ The\ toString\ method\ is\ used\ for\ debugging\ purposes.\ \ The\ code\ is\ given\n\ to\ you\ in\ the\ assignment\ pdf,\ so\ use\ that\ code\ exactly.\ \ Do\ not\ change\n\ the\ spacing\ or\ anything.\ \ Literally\ copy\ and\ paste\ that\ exact\ code.\n\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\n\ Test\ to\ see\ if\ the\ tree\ is\ empty.\n\ \n\ @return\ Return\ true\ if\ the\ tree\ is\ empty,\ false\ otherwise.\n
+comment2.params=
+comment2.target=int\ size()
+comment2.text=\n\ \n\ @return\ Return\ the\ number\ of\ elements\ in\ the\ tree.\n
+comment3.params=
+comment3.target=void\ clear()
+comment3.text=\n\ Clear\ the\ tree.\n
+numComments=4
